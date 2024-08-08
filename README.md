@@ -4,7 +4,7 @@
 <br><br>
 
 ---
-## NOTE: readme instructions apply to the original repo rather than this fork unless specified 
+
 - [Getting started](#getting-started)
 	- [Installation](#installation)
 		- [GitHub Repository Clone](#github-repository-clone)
@@ -12,38 +12,65 @@
 
 ## Getting started
 
-You can install this awesome theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Equinusocio.moxer-icons).
+You can install *the original* awesome theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Equinusocio.moxer-icons).
 
-### Installation
+...but if you want to use this version, then you'll need to build it yourself
 
-Launch *Quick Open*:
-  - <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf">Linux</a> `Ctrl+P`
-  - <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">macOS</a> `⌘P`
-  - <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Windows</a> `Ctrl+P`
+### Installation (of my version)
 
-Paste the following command and press `Enter`:
 
-```sh
-ext install moxer-icons
-```
+#### Clone and Build it yourself
 
-#### GitHub Repository Clone
-
-Change to your `.vscode/extensions` [VS Code extensions directory](https://code.visualstudio.com/docs/extensions/install-extension#_side-loading).
-Depending on your platform it is located in the following folders:
-
-  - <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/> **Linux** `~/.vscode/extensions`
-  - <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> **macOs** `~/.vscode/extensions`
-  - <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> **Windows** `%USERPROFILE%\.vscode\extensions`
-
---------------------------- modified from original - specific to my fork ---------------------------
-
-Clone the Moxer Theme repository as `Colin.moxer-icons`:
+first, you have the VS Code extension tool instaled, as well as the VS Code CLI (and npm, of course):
 
 ```sh
-git clone https://github.com/ColinMelendez/moxer-icons-code.git Colin.moxer-icons
+npm install -g vsce
+
 ```
-------------------------------------------------/---------------------------------------------------
+
+Next, we can clone the Moxer Icon Theme repository as `colin.moxer-icons` (wherever you want):
+
+```sh
+git clone https://github.com/ColinMelendez/moxer-icons-code.git colin.moxer-icons
+```
+
+Then, enter the directory, install the dependencies, and build the theme:
+
+```sh
+cd colin.moxer-icons
+npm install
+npm run build
+```
+
+at this point, you could hypothetically take the project directory as-is and just place it into the `.vscode/extensions` directory, but that approach is awkward, so it is best to package the extension into a .visx and formally install it. 
+
+To generate the .visx file, you can run:
+
+```sh
+vsce package
+```
+
+and then you can install it either by utilizing the `>Extensions: install from VISX...` command in the VS Code command palette and selecting your .visx file, or by running this command in your terminal:
+
+```sh
+code --install-extension <extension_name_here>.visx
+```
+
+alternatively, the previous two commands can be handily combined:
+
+```sh
+filename=$(vsce package | grep -oE '[^ ]+\.vsix'); code --install-extension "$filename"
+```
+
+That's it! The extension should now be available to select (and should already be selected by default).
+
+you might consider cleaning up and removing the repository if you just wanted to install the extension:
+
+```sh
+cd ..
+rm -rf colin.moxer-theme
+```
+
 
 ## Activate theme
 
