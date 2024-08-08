@@ -21,7 +21,7 @@ You can install *the original* awesome theme through the [Visual Studio Code Mar
 
 #### Clone and Build it yourself
 
-first, you have the VS Code extension tool instaled, as well as the VS Code CLI (and npm, of course):
+first, you should have the VS Code extension tool instaled (as well as the VS Code CLI and NPM, of course):
 
 ```sh
 npm install -g vsce
