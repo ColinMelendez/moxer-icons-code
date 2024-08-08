@@ -1,6 +1,16 @@
 <p align="center"><img width="800px" src="https://raw.githubusercontent.com/moxer-theme/moxer-icons-code/master/assets/cover.png"></p>
 
 <p align="center">From the Material Theme authors...<br><strong>Moxer Icons</strong> provides the biggest file icons theme for Visual Studio Code</p>
+
+
+<p align="center">...now with ferris for the rust icon!</p>
+
+<p align="center"> 
+	<img width="130px" src="https://github.com/user-attachments/assets/625c5694-d9f7-43d2-b824-a229e6275f5b"> 
+	<img width="80px" src="https://github.com/user-attachments/assets/84bfc73f-6a12-4ef3-8483-1775226e208c">
+ 	<img width="130px" src="https://github.com/user-attachments/assets/d6857ceb-f980-4e58-988a-535bd7d17e58">
+</p>
+
 <br><br>
 
 ---
