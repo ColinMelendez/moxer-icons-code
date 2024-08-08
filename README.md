@@ -4,7 +4,7 @@
 <br><br>
 
 ---
-## NOTE: readme instructions apply to the original repo rather than this form unless specified 
+## NOTE: readme instructions apply to the original repo rather than this fork unless specified 
 - [Getting started](#getting-started)
 	- [Installation](#installation)
 		- [GitHub Repository Clone](#github-repository-clone)
@@ -37,12 +37,13 @@ Depending on your platform it is located in the following folders:
   - <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> **Windows** `%USERPROFILE%\.vscode\extensions`
 
 --------------------------- modified from original - specific to my fork ---------------------------
+
 Clone the Moxer Theme repository as `Colin.moxer-icons`:
 
 ```sh
 git clone https://github.com/ColinMelendez/moxer-icons-code.git Colin.moxer-icons
 ```
-----------------------------------------------------------------------------------------------------
+------------------------------------------------/---------------------------------------------------
 
 ## Activate theme
 
