@@ -140,7 +140,9 @@ export const fileNames = {
 	'now.json': '_file_now',
 	browserslistrc: '_file_browserlist',
 	'nuxt.config.js': '_file_nuxtconfig',
-	'vue.config.js': '_file_vue'
+	'vue.config.js': '_file_vue',
+	"build.zig": '_file_zig',
+	"build.zig.zon": '_file_zig'
 	// jenkinsfile: '_file_jenkins',
 	// 'gatsby.config.js': '_file_gatsby',
 	// 'firebase.json': '_file_firebase',

@@ -81,5 +81,6 @@ export const languageIds = {
 	proto3: '_file_protobuf',
 	elixir: '_file_elixir',
 	terraform: '_file_terraform',
-	mjml: '_file_mjml'
+	mjml: '_file_mjml',
+	zig: '_file_zig'
 };

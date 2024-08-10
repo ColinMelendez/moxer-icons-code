@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [5.12.1](https://github.com/moxer-theme/moxer-icons-code/compare/v5.12.0...v5.12.1) (2024-08-08)
+
+## [5.12.0](https://github.com/moxer-theme/moxer-icons-code/compare/v5.11.1...v5.12.0) (2024-08-08)
+
+
+### Features
+
+* add zig file icon ([ee2529a](https://github.com/moxer-theme/moxer-icons-code/commit/ee2529a6bb8560bb87bbd72fe7ed37e0f282a4e3))
+
+
+### Bug Fixes
+
+* cose ([da1b5ab](https://github.com/moxer-theme/moxer-icons-code/commit/da1b5ab51e55a57aab1d276aac9378c10e387ace))
+
 ### [5.11.1](https://github.com/moxer-theme/moxer-icons-code/compare/v5.11.0...v5.11.1) (2024-01-19)
 
 

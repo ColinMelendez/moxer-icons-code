@@ -351,5 +351,7 @@ export const fileExtensions = {
 	'graphqlconfig.yml': '_file_graphql',
 	'graphqlconfig.yaml': '_file_graphql',
 	mjml: '_file_mjml',
-	nowignore: '_file_now'
+	nowignore: '_file_now',
+	zig: '_file_zig',
+	zon: '_file_zig'
 };
