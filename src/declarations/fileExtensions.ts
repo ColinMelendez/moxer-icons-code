@@ -353,5 +353,7 @@ export const fileExtensions = {
 	mjml: '_file_mjml',
 	nowignore: '_file_now',
 	zig: '_file_zig',
-	zon: '_file_zig'
+	zon: '_file_zig',
+	// added by @colin
+	wasm: '_file_webassembly',
 };

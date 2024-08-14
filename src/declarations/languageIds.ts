@@ -82,5 +82,8 @@ export const languageIds = {
 	elixir: '_file_elixir',
 	terraform: '_file_terraform',
 	mjml: '_file_mjml',
-	zig: '_file_zig'
+	zig: '_file_zig',
+	// added by @colin
+	wasm: '_file_webassembly',
+	webassembly: '_file_webassembly',
 };

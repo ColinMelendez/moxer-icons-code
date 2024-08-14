@@ -142,7 +142,10 @@ export const fileNames = {
 	'nuxt.config.js': '_file_nuxtconfig',
 	'vue.config.js': '_file_vue',
 	"build.zig": '_file_zig',
-	"build.zig.zon": '_file_zig'
+	"build.zig.zon": '_file_zig',
+	// added by @colin
+	'cargo.toml': '_file_cargo',
+	'cargo.lock': '_file_cargo-lock',
 	// jenkinsfile: '_file_jenkins',
 	// 'gatsby.config.js': '_file_gatsby',
 	// 'firebase.json': '_file_firebase',
@@ -164,7 +167,6 @@ export const fileNames = {
 	// '.gitattributes': '_file_git',
 	// '.gitmodules': '_file_git',
 	// '.gitkeep': '_file_git',
-	// 'cargo.lock': '_file_cargo-lock',
 	// '.mailmap': '_file_email',
 	// CREDITS: '_file_credits',
 	// 'credits.txt': '_file_credits',
