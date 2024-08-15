@@ -13,7 +13,7 @@ import iconDefinitions from './iconsDefinition';
 export default {
 	// Push the generated list of the icons
 	...iconDefinitions,
-	// Puch default folders and files icons
+	// Push default folders and files icons
 	...fileFolders,
 	// Push file extension declarations
 	fileExtensions,
