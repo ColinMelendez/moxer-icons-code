@@ -11,6 +11,19 @@
  	<img width="130px" src="https://github.com/user-attachments/assets/d6857ceb-f980-4e58-988a-535bd7d17e58">
 </p>
 
+<p align="center">and cargo...</p>
+
+<p align="center"> 
+	<img width="130px" src="https://github.com/user-attachments/assets/3b7a1e9f-5d7e-46bb-b0d2-612f0c5ab65b"> 
+ 	<img width="130px" src="https://github.com/user-attachments/assets/302bf087-98f9-428e-8085-57c85927ee97">
+</p>
+
+<p align="center">and wasm</p>
+
+<p align="center"> 
+	<img width="80px" src="https://github.com/user-attachments/assets/f740f3fa-7b86-45c1-8ff1-397d59736f2f">
+</p>
+
 <br><br>
 
 ---
