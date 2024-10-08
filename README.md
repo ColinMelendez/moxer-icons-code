@@ -11,7 +11,7 @@
  	<img width="130px" src="https://github.com/user-attachments/assets/d6857ceb-f980-4e58-988a-535bd7d17e58">
 </p>
 
-<p align="center">and cargo...</p>
+<p align="center">and some icons for cargo files...</p>
 
 <p align="center"> 
 	<img width="130px" src="https://github.com/user-attachments/assets/3b7a1e9f-5d7e-46bb-b0d2-612f0c5ab65b"> 
