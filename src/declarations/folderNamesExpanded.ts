@@ -28,4 +28,5 @@ export const folderNamesExpanded = {
 	'.svelte-kit': '_file_folder_svelte_open',
 	'.sst': '_file_folder_sst_open',
 	'.wrangler': '_file_folder_wrangler_open',
+	'.cargo': '_file_folder_cargo_open',
 };

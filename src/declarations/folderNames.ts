@@ -29,4 +29,5 @@ export const folderNames = {
 	'.svelte-kit': '_file_folder_svelte',
 	'.sst': '_file_folder_sst',
 	'.wrangler': '_file_folder_wrangler',
+	'.cargo': '_file_folder_cargo',
 };
