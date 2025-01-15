@@ -316,6 +316,8 @@ export const fileExtensions = {
 	pem: '_file_key',
 	asc: '_file_key',
 	svelte: '_file_svelte',
+	'svelte.js': '_file_svelte-js',
+	'svelte.ts': '_file_svelte-ts',
 	elm: '_file_elm',
 	jsx: '_file_react',
 	tsx: '_file_react',

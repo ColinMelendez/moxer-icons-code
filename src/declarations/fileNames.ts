@@ -187,6 +187,7 @@ export const fileNames = {
 	'next.config.js': '_file_next',
 	'next.config.mjs': '_file_next',
 	'next-env.d.ts': '_file_next-faded',
+	'svelte.config.js': '_file_svelte',
 	// jenkinsfile: '_file_jenkins',
 	// 'gatsby.config.js': '_file_gatsby',
 	// 'firebase.json': '_file_firebase',
