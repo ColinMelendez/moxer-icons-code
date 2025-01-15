@@ -7,6 +7,7 @@ export const folderNamesExpanded = {
 	source: '_file_folder_src_open',
 	assets: '_file_folder_assets_open',
 	node_modules: '_file_folder_node_open',
+	'.git': '_file_folder_github_open',
 	'.github': '_file_folder_github_open',
 	'.vscode': '_file_folder_vscode_open',
 	test: '_file_folder_test_open',
