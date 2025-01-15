@@ -27,4 +27,5 @@ export const folderNames = {
 	public: '_file_folder_public',
 	app: '_file_folder_app',
 	'.svelte-kit': '_file_folder_svelte',
+	'.sst': '_file_folder_sst',
 };
