@@ -17,4 +17,5 @@ export const folderNames = {
 	js: '_file_folder_js',
 	// added by @colin
 	'.pnpm': '_file_folder_pnpm',
+	drizzle: '_file_folder_drizzle',
 };

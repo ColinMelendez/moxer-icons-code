@@ -173,6 +173,8 @@ export const fileNames = {
 	'biome.jsonc': '_file_biome',
 	'tailwind.config.js': '_file_tailwindcss',
 	'tailwind.config.ts': '_file_tailwindcss',
+	'drizzle.config.ts': '_file_drizzle',
+	'drizzle.config.js': '_file_drizzle',
 	// jenkinsfile: '_file_jenkins',
 	// 'gatsby.config.js': '_file_gatsby',
 	// 'firebase.json': '_file_firebase',
