@@ -25,4 +25,5 @@ export const folderNames = {
 	lib: '_file_folder_lib',
 	library: '_file_folder_library',
 	public: '_file_folder_public',
+	app: '_file_folder_app',
 };

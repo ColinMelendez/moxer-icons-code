@@ -24,4 +24,5 @@ export const folderNamesExpanded = {
 	lib: '_file_folder_lib_open',
 	library: '_file_folder_lib_open',
 	public: '_file_folder_public_open',
+	app: '_file_folder_app_open',
 };
