@@ -22,4 +22,6 @@ export const folderNames = {
 	'.bin': '_file_folder_bin',
 	db: '_file_folder_db',
 	database: '_file_folder_db',
+	lib: '_file_folder_lib',
+	library: '_file_folder_library',
 };

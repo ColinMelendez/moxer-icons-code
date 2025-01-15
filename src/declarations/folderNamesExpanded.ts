@@ -21,4 +21,6 @@ export const folderNamesExpanded = {
 	'.bin': '_file_folder_bin_open',
 	db: '_file_folder_db_open',
 	database: '_file_folder_db_open',
+	lib: '_file_folder_lib_open',
+	library: '_file_folder_lib_open',
 };
