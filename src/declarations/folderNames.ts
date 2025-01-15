@@ -18,4 +18,5 @@ export const folderNames = {
 	// added by @colin
 	'.pnpm': '_file_folder_pnpm',
 	drizzle: '_file_folder_drizzle',
+	'.next': '_file_folder_next',
 };
