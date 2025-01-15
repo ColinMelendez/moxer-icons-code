@@ -19,4 +19,5 @@ export const folderNames = {
 	'.pnpm': '_file_folder_pnpm',
 	drizzle: '_file_folder_drizzle',
 	'.next': '_file_folder_next',
+	'.bin': '_file_folder_bin',
 };

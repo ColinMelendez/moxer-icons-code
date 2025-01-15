@@ -18,4 +18,5 @@ export const folderNamesExpanded = {
 	'.pnpm': '_file_folder_pnpm_open',
 	drizzle: '_file_folder_drizzle_open',
 	'.next': '_file_folder_next_open',
+	'.bin': '_file_folder_bin_open',
 };
