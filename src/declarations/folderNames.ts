@@ -33,4 +33,6 @@ export const folderNames = {
 	'.bun': '_file_folder_bun',
 	util: '_file_folder_util',
 	utils: '_file_folder_util',
+	packages: '_file_folder_packages',
+	modules: '_file_folder_packages',
 };

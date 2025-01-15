@@ -32,4 +32,6 @@ export const folderNamesExpanded = {
 	'.bun': '_file_folder_bun_open',
 	util: '_file_folder_util_open',
 	utils: '_file_folder_util_open',
+	packages: '_file_folder_packages_open',
+	modules: '_file_folder_packages_open',
 };
