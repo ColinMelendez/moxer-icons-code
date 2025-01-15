@@ -31,4 +31,6 @@ export const folderNames = {
 	'.wrangler': '_file_folder_wrangler',
 	'.cargo': '_file_folder_cargo',
 	'.bun': '_file_folder_bun',
+	util: '_file_folder_util',
+	utils: '_file_folder_util',
 };

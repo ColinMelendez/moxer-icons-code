@@ -30,4 +30,6 @@ export const folderNamesExpanded = {
 	'.wrangler': '_file_folder_wrangler_open',
 	'.cargo': '_file_folder_cargo_open',
 	'.bun': '_file_folder_bun_open',
+	util: '_file_folder_util_open',
+	utils: '_file_folder_util_open',
 };
