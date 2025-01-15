@@ -20,4 +20,6 @@ export const folderNames = {
 	drizzle: '_file_folder_drizzle',
 	'.next': '_file_folder_next',
 	'.bin': '_file_folder_bin',
+	db: '_file_folder_db',
+	database: '_file_folder_db',
 };
