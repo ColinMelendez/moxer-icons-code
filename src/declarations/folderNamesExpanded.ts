@@ -34,4 +34,5 @@ export const folderNamesExpanded = {
 	utils: '_file_folder_util_open',
 	packages: '_file_folder_packages_open',
 	modules: '_file_folder_packages_open',
+	routes: '_file_folder_routes_open',
 };

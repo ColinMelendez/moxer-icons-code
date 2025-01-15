@@ -35,4 +35,5 @@ export const folderNames = {
 	utils: '_file_folder_util',
 	packages: '_file_folder_packages',
 	modules: '_file_folder_packages',
+	routes: '_file_folder_routes',
 };
