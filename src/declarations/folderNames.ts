@@ -24,4 +24,5 @@ export const folderNames = {
 	database: '_file_folder_db',
 	lib: '_file_folder_lib',
 	library: '_file_folder_library',
+	public: '_file_folder_public',
 };
