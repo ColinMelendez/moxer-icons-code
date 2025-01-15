@@ -360,4 +360,6 @@ export const fileExtensions = {
 	wasm: '_file_webassembly',
 	'pnpmfile.cjs': '_file_pnpm',
 	'pnpmfile.mjs': '_file_pnpm',
+	'.up.sql': '_file_sql-up',
+	'.down.sql': '_file_sql-down',
 };

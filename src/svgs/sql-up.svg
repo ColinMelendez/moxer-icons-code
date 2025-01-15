@@ -1,7 +1,18 @@
 <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g id='sql'>
 <path d="M12.2809 7.18268C12.5153 7.07717 12.7603 6.9499 13 6.80005V8.00004C13 9.24268 10.7614 10.25 8 10.25C5.23858 10.25 3 9.24268 3 8.00004V6.80005C3.23977 6.9499 3.48465 7.07717 3.71911 7.18268C4.9008 7.71443 6.41665 8.00004 8 8.00004C9.58335 8.00004 11.0992 7.71443 12.2809 7.18268Z" fill="#65A7E4" stroke="black" stroke-width="0.00016"/>
 <path d="M3 10.55V11.75C3 12.9927 5.23857 14 8 14C10.7614 14 13 12.9927 13 11.75V10.55C12.7602 10.6999 12.5153 10.8272 12.2809 10.9327C11.0992 11.4644 9.58335 11.75 8 11.75C6.41665 11.75 4.9008 11.4644 3.71911 10.9327C3.48465 10.8272 3.23977 10.6999 3 10.55Z" fill="#65A7E4" stroke="black" stroke-width="0.00016"/>
 <path d="M8 2C10.7614 2 13 3.00736 13 4.25C13 5.49264 10.7614 6.5 8 6.5C5.23857 6.5 3 5.49264 3 4.25C3 3.00736 5.23857 2 8 2Z" fill="#65A7E4" stroke="black" stroke-width="0.00016"/>
+<g clip-path="url(#clip0_514_172)">
+<mask id="mask0_514_172" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="3" y="7" width="10" height="7">
+<path d="M3.5 7.5H12.5V13.5H3.5V7.5Z" fill="white" stroke="white"/>
+</mask>
+<g mask="url(#mask0_514_172)">
+<path d="M8 7L4 10.6842H6V14H10V10.6842H12L8 7Z" fill="#2ECE56" stroke="black" stroke-width="0.002"/>
 </g>
+</g>
+<defs>
+<clipPath id="clip0_514_172">
+<rect width="10" height="7" fill="white" transform="translate(3 7)"/>
+</clipPath>
+</defs>
 </svg>
