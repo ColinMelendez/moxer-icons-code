@@ -5,22 +5,22 @@
 
 <p align="center">...now with ferris for the rust icon!</p>
 
-<p align="center"> 
-	<img width="130px" src="https://github.com/user-attachments/assets/625c5694-d9f7-43d2-b824-a229e6275f5b"> 
+<p align="center">
+	<img width="130px" src="https://github.com/user-attachments/assets/625c5694-d9f7-43d2-b824-a229e6275f5b">
 	<img width="80px" src="https://github.com/user-attachments/assets/84bfc73f-6a12-4ef3-8483-1775226e208c">
  	<img width="130px" src="https://github.com/user-attachments/assets/d6857ceb-f980-4e58-988a-535bd7d17e58">
 </p>
 
 <p align="center">and some icons for cargo files...</p>
 
-<p align="center"> 
-	<img width="130px" src="https://github.com/user-attachments/assets/3b7a1e9f-5d7e-46bb-b0d2-612f0c5ab65b"> 
+<p align="center">
+	<img width="130px" src="https://github.com/user-attachments/assets/3b7a1e9f-5d7e-46bb-b0d2-612f0c5ab65b">
  	<img width="130px" src="https://github.com/user-attachments/assets/302bf087-98f9-428e-8085-57c85927ee97">
 </p>
 
 <p align="center">and wasm</p>
 
-<p align="center"> 
+<p align="center">
 	<img width="80px" src="https://github.com/user-attachments/assets/f740f3fa-7b86-45c1-8ff1-397d59736f2f">
 </p>
 
@@ -65,7 +65,7 @@ npm install
 npm run build
 ```
 
-at this point, you could hypothetically take the project directory as-is and just place it into the `.vscode/extensions` directory, but that approach is awkward, so it is best to package the extension into a .visx and formally install it. 
+at this point, you could hypothetically take the project directory as-is and just place it into the `.vscode/extensions` directory, but that approach is awkward, so it is best to package the extension into a .visx and formally install it.
 
 To generate the .visx file, you can run:
 
@@ -76,7 +76,7 @@ vsce package
 and then you can install it either by utilizing the `>Extensions: install from VISX...` command in the VS Code command palette and selecting your .visx file, or by running this command in your terminal:
 
 ```sh
-code --install-extension <extension_name_here>.visx
+code --install-extension <extension_name_here>.vsix
 ```
 
 alternatively, the previous two commands can be handily combined:
