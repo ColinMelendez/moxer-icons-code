@@ -1,24 +1,24 @@
 <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_503_94)">
-<mask id="mask0_503_94" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
+<g clip-path="url(#clip0_513_104)">
+<mask id="mask0_513_104" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="16" height="16">
 <path d="M0 0H16V16H0V0Z" fill="white"/>
 </mask>
-<g mask="url(#mask0_503_94)">
+<g mask="url(#mask0_513_104)">
 <path opacity="0.8" fill-rule="evenodd" clip-rule="evenodd" d="M14.9167 6.66667H9.08329C7.79463 6.66667 6.74996 7.71134 6.74996 9V14.6H2.31663C1.94532 14.6 1.58923 14.4525 1.32668 14.1899C1.06413 13.9274 0.916626 13.5713 0.916626 13.2V3.4C0.916626 3.0287 1.06413 2.6726 1.32668 2.41005C1.58923 2.1475 1.94532 2 2.31663 2H5.81663L7.21663 4.1H13.5167C13.888 4.1 14.2441 4.2475 14.5066 4.51005C14.7692 4.7726 14.9167 5.1287 14.9167 5.5V6.66667Z" fill="#434F65"/>
-<path opacity="0.1" d="M14.9166 7.83331H9.0833C8.43896 7.83331 7.91663 8.35565 7.91663 8.99998V14.8333C7.91663 15.4776 8.43896 16 9.0833 16H14.9166C15.561 16 16.0833 15.4776 16.0833 14.8333V8.99998C16.0833 8.35565 15.561 7.83331 14.9166 7.83331Z" fill="#252D3A"/>
 </g>
-<g clip-path="url(#clip1_503_94)">
+<g clip-path="url(#clip1_513_104)">
 <path d="M9.59245 10.6964L9.05739 11.8748L8.52234 13.0533" stroke="#C6F750" stroke-width="0.75" stroke-linecap="round"/>
 <path d="M11.7326 9.12958L11.1975 10.3081L10.6625 11.4866" stroke="#C6F750" stroke-width="0.75" stroke-linecap="round"/>
 <path d="M12.6498 10.7009L12.1148 11.8794L11.5797 13.0579" stroke="#C6F750" stroke-width="0.75" stroke-linecap="round"/>
 <path d="M14.7901 9.12958L14.255 10.3081L13.72 11.4866" stroke="#C6F750" stroke-width="0.75" stroke-linecap="round"/>
 </g>
+<path opacity="0.1" d="M15 8H9.16667C8.52234 8 8 8.52234 8 9.16667V15C8 15.6443 8.52234 16.1667 9.16667 16.1667H15C15.6443 16.1667 16.1667 15.6443 16.1667 15V9.16667C16.1667 8.52234 15.6443 8 15 8Z" fill="#252D3A"/>
 </g>
 <defs>
-<clipPath id="clip0_503_94">
+<clipPath id="clip0_513_104">
 <rect width="16" height="16" fill="white"/>
 </clipPath>
-<clipPath id="clip1_503_94">
+<clipPath id="clip1_513_104">
 <rect width="7.3125" height="6.1875" fill="white" transform="translate(8 8)"/>
 </clipPath>
 </defs>
