@@ -29,4 +29,5 @@ export const folderNamesExpanded = {
 	'.sst': '_file_folder_sst_open',
 	'.wrangler': '_file_folder_wrangler_open',
 	'.cargo': '_file_folder_cargo_open',
+	'.bun': '_file_folder_bun_open',
 };
