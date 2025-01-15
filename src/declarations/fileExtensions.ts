@@ -362,4 +362,5 @@ export const fileExtensions = {
 	'pnpmfile.mjs': '_file_pnpm',
 	'.up.sql': '_file_sql-up',
 	'.down.sql': '_file_sql-down',
+	'.gen.ts': '_file_typescript_def.svg',
 };
