@@ -160,6 +160,8 @@ export const fileNames = {
 	'eslint.config.ts': '_file_eslint',
 	'eslint.config.mts': '_file_eslint',
 	'eslint.config.cts': '_file_eslint',
+	'biome.json': '_file_biome',
+	'biome.jsonc': '_file_biome',
 	// jenkinsfile: '_file_jenkins',
 	// 'gatsby.config.js': '_file_gatsby',
 	// 'firebase.json': '_file_firebase',

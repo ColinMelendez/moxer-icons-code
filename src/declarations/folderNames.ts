@@ -15,5 +15,6 @@ export const folderNames = {
 	__test__: '_file_folder_test',
 	__tests__: '_file_folder_test',
 	js: '_file_folder_js',
+	// added by @colin
 	'.pnpm': '_file_folder_pnpm',
 };
