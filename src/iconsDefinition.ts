@@ -38,7 +38,7 @@ class Icon {
 
 /**
  * For each files found in `iconsList`
- * call the Icon contructor and generate the
+ * call the Icon constructor and generate the
  * full json theme
  */
 const icons = iconsList.reduce(

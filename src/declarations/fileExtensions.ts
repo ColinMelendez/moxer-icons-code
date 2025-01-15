@@ -356,4 +356,6 @@ export const fileExtensions = {
 	zon: '_file_zig',
 	// added by @colin
 	wasm: '_file_webassembly',
+	'pnpmfile.cjs': '_file_pnpm',
+	'pnpmfile.mjs': '_file_pnpm',
 };

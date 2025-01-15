@@ -12,5 +12,6 @@ export const folderNamesExpanded = {
 	test: '_file_folder_test_open',
 	tests: '_file_folder_test_open',
 	__test__: '_file_folder_test_open',
-	js: '_file_folder_js_open'
+	js: '_file_folder_js_open',
+	'.pnpm': '_file_folder_pnpm_open',
 };

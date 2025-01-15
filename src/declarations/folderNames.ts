@@ -14,5 +14,6 @@ export const folderNames = {
 	tests: '_file_folder_test',
 	__test__: '_file_folder_test',
 	__tests__: '_file_folder_test',
-	js: '_file_folder_js'
+	js: '_file_folder_js',
+	'.pnpm': '_file_folder_pnpm',
 };

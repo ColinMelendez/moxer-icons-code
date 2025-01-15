@@ -146,6 +146,10 @@ export const fileNames = {
 	// added by @colin
 	'cargo.toml': '_file_cargo',
 	'cargo.lock': '_file_cargo-lock',
+	'pnpm-lock.yaml': '_file_pnpm',
+	'pnpm-lock.yml': '_file_pnpm',
+	'pnpm-workspace.yaml': '_file_pnpm',
+	'pnpm-workspace.yml': '_file_pnpm',
 	// jenkinsfile: '_file_jenkins',
 	// 'gatsby.config.js': '_file_gatsby',
 	// 'firebase.json': '_file_firebase',
