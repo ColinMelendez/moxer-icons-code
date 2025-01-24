@@ -36,4 +36,6 @@ export const folderNames = {
 	packages: '_file_folder_packages',
 	modules: '_file_folder_packages',
 	routes: '_file_folder_routes',
+	'.storybook': '_file_folder_storybook',
+	stories: '_file_folder_storybook',
 };

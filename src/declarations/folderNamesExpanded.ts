@@ -35,4 +35,6 @@ export const folderNamesExpanded = {
 	packages: '_file_folder_packages_open',
 	modules: '_file_folder_packages_open',
 	routes: '_file_folder_routes_open',
+	'.storybook': '_file_folder_storybook_open',
+	stories: '_file_folder_storybook_open',
 };
