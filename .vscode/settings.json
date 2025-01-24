@@ -3,4 +3,19 @@
 		"src/index.js": true,
 		"**/*.js": true
 	},
+	"cSpell.words": [
+		"androidmanifest",
+		"browserlist",
+		"browserslistrc",
+		"bunfig",
+		"CODEOWNERS",
+		"emakefile",
+		"firebaserc",
+		"flowconfig",
+		"gitmodules",
+		"gradlew",
+		"gulpfile",
+		"nuxtconfig",
+		"procfile"
+	],
 }
