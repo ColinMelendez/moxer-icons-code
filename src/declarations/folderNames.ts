@@ -39,4 +39,6 @@ export const folderNames = {
 	'.storybook': '_file_folder_storybook',
 	stories: '_file_folder_storybook',
 	'.wxt': '_file_folder_wxt',
+	'.turbo': '_file_folder_turborepo',
+	apps: '_file_folder_apps',
 };

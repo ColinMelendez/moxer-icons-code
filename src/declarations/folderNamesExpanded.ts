@@ -38,4 +38,6 @@ export const folderNamesExpanded = {
 	'.storybook': '_file_folder_storybook_open',
 	stories: '_file_folder_storybook_open',
 	'.wxt': '_file_folder_wxt_open',
+	'.turbo': '_file_folder_turborepo_open',
+	apps: '_file_folder_apps_open',
 };

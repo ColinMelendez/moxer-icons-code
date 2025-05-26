@@ -124,6 +124,8 @@ export const fileExtensions = {
 	'env.staging': '_file_settings',
 	'env.production': '_file_settings',
 	'env.build': '_file_settings',
+	'env.local': '_file_settings',
+	'env.example': '_file_settings',
 	buildignore: '_file_settings',
 	editorconfig: '_file_editorconfig',
 	jshintignore: '_file_settings',
