@@ -37,4 +37,5 @@ export const folderNamesExpanded = {
 	routes: '_file_folder_routes_open',
 	'.storybook': '_file_folder_storybook_open',
 	stories: '_file_folder_storybook_open',
+	'.wxt': '_file_folder_wxt_open',
 };

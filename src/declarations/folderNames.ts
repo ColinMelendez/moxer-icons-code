@@ -38,4 +38,5 @@ export const folderNames = {
 	routes: '_file_folder_routes',
 	'.storybook': '_file_folder_storybook',
 	stories: '_file_folder_storybook',
+	'.wxt': '_file_folder_wxt',
 };
