@@ -40,4 +40,5 @@ export const folderNamesExpanded = {
 	'.wxt': '_file_folder_wxt_open',
 	'.turbo': '_file_folder_turborepo_open',
 	apps: '_file_folder_apps_open',
+	'.devbox': '_file_folder_nix_open',
 };

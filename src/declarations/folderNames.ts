@@ -41,4 +41,5 @@ export const folderNames = {
 	'.wxt': '_file_folder_wxt',
 	'.turbo': '_file_folder_turborepo',
 	apps: '_file_folder_apps',
+	'.devbox': '_file_folder_nix',
 };
