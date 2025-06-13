@@ -243,6 +243,8 @@ export const fileNames = {
 	'vitest.workspace.cjs': '_file_vitest',
 	'vitest.workspace.mts': '_file_vitest',
 	'vitest.workspace.cts': '_file_vitest',
+  '.oxlintrc.json': '_file_oxc',
+	'.oxlintrc.jsonc': '_file_oxc',
 	// jenkinsfile: '_file_jenkins',
 	// 'gatsby.config.js': '_file_gatsby',
 	// 'firebase.json': '_file_firebase',
