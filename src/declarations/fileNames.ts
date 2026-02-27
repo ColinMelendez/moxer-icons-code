@@ -48,6 +48,8 @@ export const fileNames = {
 	'tsconfig.paths.jsonc': '_file_tsconfig',
 	'tsconfig.base.json': '_file_tsconfig',
 	'tsconfig.base.jsonc': '_file_tsconfig',
+	'tsconfig.root.json': '_file_tsconfig',
+	'tsconfig.root.jsonc': '_file_tsconfig',
 	'tsconfig.references.json': '_file_tsconfig',
 	'tsconfig.references.jsonc': '_file_tsconfig',
 	'tsconfig.dev.json': '_file_tsconfig',
