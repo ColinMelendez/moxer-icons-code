@@ -167,6 +167,7 @@ export const fileNames = {
 	'jest.teardown.js': '_file_jest',
 	'contributing.md': '_file_contributing',
 	'code_of_conduct.md': '_file_conduct',
+	'code-of-conduct.md': '_file_conduct',
 	'gatsby-config.js': '_file_gatsby',
 	'gatsby-config.ts': '_file_gatsby',
 	'gatsby-node.js': '_file_gatsby',
