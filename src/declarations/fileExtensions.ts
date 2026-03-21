@@ -313,6 +313,7 @@ export const fileExtensions = {
 	sln: '_file_visualstudio',
 	csproj: '_file_visualstudio',
 	vb: '_file_visualstudio',
+	vsix: '_file_visualstudio',
 	'js.map': '_file_js_map',
 	'mjs.map': '_file_js_map',
 	pub: '_file_key',
