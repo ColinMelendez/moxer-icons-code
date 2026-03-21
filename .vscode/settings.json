@@ -14,6 +14,8 @@
 		"buildignore",
 		"bunfig",
 		"CODEOWNERS",
+		"codespellignore",
+		"codespellrc",
 		"devenv",
 		"dhall",
 		"dlang",
