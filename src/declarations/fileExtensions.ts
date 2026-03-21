@@ -370,4 +370,5 @@ export const fileExtensions = {
 	'.down.sql': '_file_sql-down',
 	'.gen.ts': '_file_typescript_def.svg',
 	nix: '_file_nix',
+	v: '_file_rocq',
 };
