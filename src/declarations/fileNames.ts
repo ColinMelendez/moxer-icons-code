@@ -178,6 +178,7 @@ export const fileNames = {
 	'gatsby-ssr.ts': '_file_gatsby',
 	'readme.md': '_file_readme',
 	'README.md': '_file_readme',
+	'README': '_file_readme',
 	changelog: '_file_changelog',
 	'changelog.md': '_file_changelog',
 	favicon: '_file_favicon',
