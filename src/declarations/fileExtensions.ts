@@ -350,6 +350,7 @@ export const fileExtensions = {
 	'prettierrc.json': '_file_prettier',
 	'prettierrc.yaml': '_file_prettier',
 	'prettierrc.yml': '_file_prettier',
+	'prettierrc.toml': '_file_prettier',
 	prettierrc: '_file_prettier',
 	prettierignore: '_file_prettier',
 	proto: '_file_protobuf',
