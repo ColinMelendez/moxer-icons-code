@@ -376,4 +376,5 @@ export const fileExtensions = {
 	'bazelignore': '_file_bazel',
 	'bazelversion': '_file_bazel',
 	'bazel.lock': '_file_bazel-lock',
+	bzl: '_file_starlark',
 };
