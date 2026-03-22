@@ -371,4 +371,9 @@ export const fileExtensions = {
 	'.gen.ts': '_file_typescript_def.svg',
 	nix: '_file_nix',
 	v: '_file_rocq',
+	bazel: '_file_bazel',
+	'bazelrc': '_file_bazel',
+	'bazelignore': '_file_bazel',
+	'bazelversion': '_file_bazel',
+	'bazel.lock': '_file_bazel-lock',
 };
