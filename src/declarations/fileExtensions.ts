@@ -362,7 +362,6 @@ export const fileExtensions = {
 	nowignore: '_file_now',
 	zig: '_file_zig',
 	zon: '_file_zig',
-	// added by @colin
 	wasm: '_file_webassembly',
 	'pnpmfile.cjs': '_file_pnpm',
 	'pnpmfile.mjs': '_file_pnpm',
