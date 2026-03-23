@@ -268,6 +268,8 @@ export const fileNames = {
 	'.codespellignore': '_file_settings',
 	'devcontainer.json': '_file_devcontainer',
 	'devcontainer.metadata': '_file_devcontainer',
+	'rust-toolchain': '_file_cargo',
+	'rust-toolchain.toml': '_file_cargo',
 	// jenkinsfile: '_file_jenkins',
 	// 'gatsby.config.js': '_file_gatsby',
 	// 'firebase.json': '_file_firebase',
