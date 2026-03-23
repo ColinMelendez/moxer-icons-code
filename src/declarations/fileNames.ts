@@ -266,6 +266,8 @@ export const fileNames = {
 	'.oxlintrc.jsonc': '_file_oxc',
 	'.codespellrc': '_file_settings',
 	'.codespellignore': '_file_settings',
+	'devcontainer.json': '_file_devcontainer',
+	'devcontainer.metadata': '_file_devcontainer',
 	// jenkinsfile: '_file_jenkins',
 	// 'gatsby.config.js': '_file_gatsby',
 	// 'firebase.json': '_file_firebase',

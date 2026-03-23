@@ -41,4 +41,5 @@ export const folderNamesExpanded = {
 	'.turbo': '_file_folder_turborepo_open',
 	apps: '_file_folder_apps_open',
 	'.devbox': '_file_folder_nix_open',
+	'.devcontainer': '_file_folder_devcontainer_open',
 };

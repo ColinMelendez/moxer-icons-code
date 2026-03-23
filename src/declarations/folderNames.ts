@@ -42,4 +42,5 @@ export const folderNames = {
 	'.turbo': '_file_folder_turborepo',
 	apps: '_file_folder_apps',
 	'.devbox': '_file_folder_nix',
+	'.devcontainer': '_file_folder_devcontainer',
 };
