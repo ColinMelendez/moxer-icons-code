@@ -272,6 +272,8 @@ export const fileNames = {
 	'rust-toolchain.toml': '_file_cargo',
 	security: '_file_security',
 	'security.md': '_file_security',
+	'lean-toolchain': '_file_lean-toolchain',
+	'leanpkg.toml': '_file_lean-toolchain',
 	// jenkinsfile: '_file_jenkins',
 	// 'gatsby.config.js': '_file_gatsby',
 	// 'firebase.json': '_file_firebase',
