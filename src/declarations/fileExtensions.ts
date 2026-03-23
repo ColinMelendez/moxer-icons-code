@@ -377,4 +377,5 @@ export const fileExtensions = {
 	'bazel.lock': '_file_bazel-lock',
 	bzl: '_file_starlark',
 	lean: '_file_lean',
+	'.justfile': '_file_justfile',
 };

@@ -274,6 +274,7 @@ export const fileNames = {
 	'security.md': '_file_security',
 	'lean-toolchain': '_file_lean-toolchain',
 	'leanpkg.toml': '_file_lean-toolchain',
+	'justfile': '_file_justfile',
 	// jenkinsfile: '_file_jenkins',
 	// 'gatsby.config.js': '_file_gatsby',
 	// 'firebase.json': '_file_firebase',

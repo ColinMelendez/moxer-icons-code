@@ -43,6 +43,7 @@
 		"jsbeautifyrc",
 		"jshintignore",
 		"jsonnet",
+		"justfile",
 		"leanpkg",
 		"lintrc",
 		"mexn",
