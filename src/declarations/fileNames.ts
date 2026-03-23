@@ -270,6 +270,8 @@ export const fileNames = {
 	'devcontainer.metadata': '_file_devcontainer',
 	'rust-toolchain': '_file_cargo',
 	'rust-toolchain.toml': '_file_cargo',
+	security: '_file_security',
+	'security.md': '_file_security',
 	// jenkinsfile: '_file_jenkins',
 	// 'gatsby.config.js': '_file_gatsby',
 	// 'firebase.json': '_file_firebase',
