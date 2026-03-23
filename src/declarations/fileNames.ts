@@ -160,6 +160,7 @@ export const fileNames = {
 	'rollup.config.prod.vendor.js': 'file_rollup',
 	'rollup.config.prod.vendor.ts': 'file_rollup',
 	'jest.config.js': '_file_jest',
+	'jest.config.cjs': '_file_jest',
 	'jest.json': '_file_jest',
 	'jest.config.json': '_file_jest',
 	'jest.config.ts': '_file_jest',
