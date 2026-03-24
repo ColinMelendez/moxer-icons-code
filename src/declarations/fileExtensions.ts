@@ -378,4 +378,5 @@ export const fileExtensions = {
 	bzl: '_file_starlark',
 	lean: '_file_lean',
 	'.justfile': '_file_justfile',
+	tpl: '_file_tpl',
 };
