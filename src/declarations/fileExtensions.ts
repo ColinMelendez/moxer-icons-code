@@ -386,4 +386,7 @@ export const fileExtensions = {
 	elisp: '_file_emacs-lisp',
 	scm: '_file_scheme',
 	ss: '_file_scheme',
+	rkt: '_file_racket',
+	rkts: '_file_racket',
+	rktl: '_file_racket',
 };
