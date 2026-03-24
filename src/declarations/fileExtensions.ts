@@ -379,4 +379,7 @@ export const fileExtensions = {
 	lean: '_file_lean',
 	'.justfile': '_file_justfile',
 	tpl: '_file_tpl',
+	lisp: '_file_common-lisp',
+	lsp: '_file_common-lisp',
+	cl: '_file_common-lisp',
 };
