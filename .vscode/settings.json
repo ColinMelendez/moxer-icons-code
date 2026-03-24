@@ -23,6 +23,7 @@
 		"devenv",
 		"dhall",
 		"dlang",
+		"elisp",
 		"emakefile",
 		"emakerfile",
 		"firebaserc",
