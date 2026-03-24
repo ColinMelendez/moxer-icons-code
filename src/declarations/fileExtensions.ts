@@ -384,4 +384,6 @@ export const fileExtensions = {
 	cl: '_file_common-lisp',
 	el: '_file_emacs-lisp',
 	elisp: '_file_emacs-lisp',
+	scm: '_file_scheme',
+	ss: '_file_scheme',
 };
