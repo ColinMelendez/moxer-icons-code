@@ -389,4 +389,9 @@ export const fileExtensions = {
 	rkt: '_file_racket',
 	rkts: '_file_racket',
 	rktl: '_file_racket',
+	clj: '_file_clojure',
+	cljs: '_file_clojure',
+	cljc: '_file_clojure',
+	cljr: '_file_clojure',
+	cljd: '_file_clojure',
 };
