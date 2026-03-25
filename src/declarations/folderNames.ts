@@ -43,4 +43,6 @@ export const folderNames = {
 	apps: '_file_folder_apps',
 	'.devbox': '_file_folder_nix',
 	'.devcontainer': '_file_folder_devcontainer',
+	'.claude': '_file_folder_claude',
+	'.codex': '_file_folder_codex',
 };

@@ -42,4 +42,6 @@ export const folderNamesExpanded = {
 	apps: '_file_folder_apps_open',
 	'.devbox': '_file_folder_nix_open',
 	'.devcontainer': '_file_folder_devcontainer_open',
+	'.claude': '_file_folder_claude_open',
+	'.codex': '_file_folder_codex_open',
 };
