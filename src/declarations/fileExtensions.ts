@@ -399,4 +399,8 @@ export const fileExtensions = {
 	envrc: '_file_envrc',
 	rc: '_file_rc',
 	service: '_file_settings',
+	sv: '_file_verilog',
+	svh: '_file_verilog',
+	verilog: '_file_verilog',
+	vlg: '_file_verilog',
 };
