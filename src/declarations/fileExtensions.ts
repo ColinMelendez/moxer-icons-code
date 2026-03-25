@@ -398,4 +398,5 @@ export const fileExtensions = {
 	vimrc: '_file_vim',
 	envrc: '_file_envrc',
 	rc: '_file_rc',
+	service: '_file_settings',
 };
