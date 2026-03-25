@@ -394,4 +394,6 @@ export const fileExtensions = {
 	cljc: '_file_clojure',
 	cljr: '_file_clojure',
 	cljd: '_file_clojure',
+	vim: '_file_vim',
+	vimrc: '_file_vim',
 };
