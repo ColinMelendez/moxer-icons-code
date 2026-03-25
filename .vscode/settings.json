@@ -29,6 +29,7 @@
 		"elisp",
 		"emakefile",
 		"emakerfile",
+		"envrc",
 		"firebaserc",
 		"flac",
 		"flowconfig",
