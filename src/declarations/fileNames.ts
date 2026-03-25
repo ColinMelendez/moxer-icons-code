@@ -276,6 +276,8 @@ export const fileNames = {
 	'lean-toolchain': '_file_lean-toolchain',
 	'leanpkg.toml': '_file_lean-toolchain',
 	'justfile': '_file_justfile',
+	'agents.md': '_file_agents',
+	'claude.md': '_file_claude',
 	// jenkinsfile: '_file_jenkins',
 	// 'gatsby.config.js': '_file_gatsby',
 	// 'firebase.json': '_file_firebase',
